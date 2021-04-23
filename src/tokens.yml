@@ -1,0 +1,12 @@
+# List of all token files
+# ---
+imports:
+  # - ./border/index.yml
+  # - ./radius/index.yml
+  - ./colors/index.yml
+  # - ./opacity/index.yml
+  # - ./shadow/index.yml
+  # - ./spacing/index.yml
+  # - ./typography/index.yml
+global:
+  category: tokens

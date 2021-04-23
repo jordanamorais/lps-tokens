@@ -1,0 +1,10 @@
+# src/color/index.yml
+---
+global:
+  type: color # Com esse valor o THEO converte as unidades
+  category: category-color
+ 
+imports:
+  - ./aliases.yml
+  - ./brand.yml
+ 

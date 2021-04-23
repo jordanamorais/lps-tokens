@@ -1,0 +1,8 @@
+# src/color/aliases.yml
+---
+global:
+  type: aliases # Atribui o valor do tipo do arquivo
+  category: pallete-color
+ 
+aliases:
+  color-primary-regular-400:                '#EB194B' # Primary - Regular 400

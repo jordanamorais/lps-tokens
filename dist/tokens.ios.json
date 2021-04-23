@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorCasa400",
+      "value": "rgb(235, 25, 75)"
+    }
+  ]
+}

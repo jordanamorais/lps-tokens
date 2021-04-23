@@ -1,0 +1,15 @@
+# src/color/brand.yml
+---
+global:
+  type: color # Com esse valor o THEO converte as unidades
+  category: category-color
+ 
+imports:
+  - ./aliases.yml # Importando variaveis de apelido
+ 
+props:
+  - name: $color-casa-400 # Nome do token
+    value: '{!color-primary-regular-400}' # Valor do token em variável
+    meta:
+      friendlyName: Color Primary Casa 400
+    category: brand-color
