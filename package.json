@@ -1,6 +1,6 @@
 {
   "name": "lps-tokens",
-  "description": "Tokes base architecture",
+  "description": "Tokens base architecture",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {
@@ -12,10 +12,6 @@
     "android": "theo src/tokens.yml --transform android --format android.xml --dest dist",
     "ios": "theo src/tokens.yml --transform ios --format ios.json --dest dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jordanamorais/lps-tokens.git"
-  },
   "keywords": [
     "tokens",
     "design tokens",
@@ -23,9 +19,6 @@
   ],
   "author": "lopesdesign",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jordanamorais/lps-tokens/issues"
-  },
   "homepage": "https://github.com/jordanamorais/lps-tokens#readme",
   "dependencies": {
     "optimist": "^0.6.1",
