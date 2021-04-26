@@ -5,6 +5,12 @@
       "category": "brand-color",
       "name": "colorCasa400",
       "value": "rgb(235, 25, 75)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorCasa100",
+      "value": "rgb(251, 209, 219)"
     }
   ]
 }

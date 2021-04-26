@@ -10,7 +10,8 @@
   "scripts": {
     "web": "theo src/tokens.yml --transform web --format scss --dest dist",
     "android": "theo src/tokens.yml --transform android --format android.xml --dest dist",
-    "ios": "theo src/tokens.yml --transform ios --format ios.json --dest dist"
+    "ios": "theo src/tokens.yml --transform ios --format ios.json --dest dist",
+    "all": "npm run web & npm run android & npm run ios"
   },
   "keywords": [
     "tokens",

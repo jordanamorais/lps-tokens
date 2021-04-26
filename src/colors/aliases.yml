@@ -1,4 +1,5 @@
 # src/color/aliases.yml
+# All of the color aliases
 ---
 global:
   type: aliases # Atribui o valor do tipo do arquivo
@@ -6,3 +7,4 @@ global:
  
 aliases:
   color-primary-regular-400:                '#EB194B' # Primary - Regular 400
+  color-primary-faded-100:                  '#FBD1DB'

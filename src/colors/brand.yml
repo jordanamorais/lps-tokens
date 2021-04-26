@@ -1,4 +1,5 @@
 # src/color/brand.yml
+# (Brand colors) Primary and Secondary colors
 ---
 global:
   type: color # Com esse valor o THEO converte as unidades
@@ -12,4 +13,10 @@ props:
     value: '{!color-primary-regular-400}' # Valor do token em variável
     meta:
       friendlyName: Color Primary Casa 400
+    category: brand-color
+
+  - name: $color-casa-100
+    value: '{!color-primary-faded-100}'
+    meta:
+      friendlyName: Color Primary Casa 100
     category: brand-color

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <color name="$COLOR_CASA_400" category="brand-color">#ffeb194b</color>
+  <color name="$COLOR_CASA_100" category="brand-color">#fffbd1db</color>
 </resources>
