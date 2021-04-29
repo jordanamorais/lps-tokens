@@ -9,14 +9,27 @@ imports:
   - ./aliases.yml # Importando variaveis de apelido
  
 props:
-  - name: $color-casa-400 # Nome do token
-    value: '{!color-primary-regular-400}' # Valor do token em variável
-    meta:
-      friendlyName: Color Primary Casa 400
-    category: brand-color
 
   - name: $color-casa-100
     value: '{!color-primary-faded-100}'
     meta:
       friendlyName: Color Primary Casa 100
+    category: brand-color
+
+  - name: $color-casa-200
+    value: '{!color-primary-washed-200}'
+    meta:
+      friendlyName: Color Primary Casa 200
+    category: brand-color
+
+  - name: $color-casa-300
+    value: '{!color-primary-light-300}'
+    meta:
+      friendlyName: Color Primary Casa 300
+    category: brand-color
+
+  - name: $color-casa-400 # Nome do token
+    value: '{!color-primary-regular-400}' # Valor do token em variável
+    meta:
+      friendlyName: Color Primary Casa 400
     category: brand-color

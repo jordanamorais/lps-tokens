@@ -6,5 +6,7 @@ global:
   category: pallete-color
  
 aliases:
-  color-primary-regular-400:                '#EB194B' # Primary - Regular 400
   color-primary-faded-100:                  '#FBD1DB'
+  color-primary-washed-200:                 '#F15E81'
+  color-primary-light-300:                  '#F15E81'
+  color-primary-regular-400:                '#EB194B' # Primary - Regular 400

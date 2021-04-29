@@ -3,14 +3,26 @@
     {
       "type": "color",
       "category": "brand-color",
-      "name": "colorCasa400",
-      "value": "rgb(235, 25, 75)"
+      "name": "colorCasa100",
+      "value": "rgb(251, 209, 219)"
     },
     {
       "type": "color",
       "category": "brand-color",
-      "name": "colorCasa100",
-      "value": "rgb(251, 209, 219)"
+      "name": "colorCasa200",
+      "value": "rgb(241, 94, 129)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorCasa300",
+      "value": "rgb(241, 94, 129)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorCasa400",
+      "value": "rgb(235, 25, 75)"
     }
   ]
 }

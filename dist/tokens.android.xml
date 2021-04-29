@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <color name="$COLOR_CASA_400" category="brand-color">#ffeb194b</color>
   <color name="$COLOR_CASA_100" category="brand-color">#fffbd1db</color>
+  <color name="$COLOR_CASA_200" category="brand-color">#fff15e81</color>
+  <color name="$COLOR_CASA_300" category="brand-color">#fff15e81</color>
+  <color name="$COLOR_CASA_400" category="brand-color">#ffeb194b</color>
 </resources>
