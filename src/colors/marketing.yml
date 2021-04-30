@@ -1,0 +1,44 @@
+# src/color/marketing.yml
+# Marketing Illustration colors
+---
+global:
+  type: color
+  category: category-color
+ 
+imports:
+  - ./aliases.yml
+ 
+props:
+
+  # Marketing colors
+  - name: $color-cozinha
+    value: '{!color-cozinha-regular-400}'
+    meta:
+      friendlyName: Color Cozinha
+    category: marketing-color
+
+  - name: $color-quintal
+    value: '{!color-quintal-regular-400}'
+    meta:
+      friendlyName: Color Quintal
+    category: marketing-color
+
+  - name: $color-sala
+    value: '{!color-sala-regular-400}'
+    meta:
+      friendlyName: Color Sala
+    category: marketing-color
+
+  - name: $color-piscina
+    value: '{!color-piscina-regular-400}'
+    meta:
+      friendlyName: Color Piscina
+    category: marketing-color
+
+  - name: $color-banheira
+    value: '{!color-banheira-regular-400}'
+    meta:
+      friendlyName: Color Banheira
+    category: marketing-color
+
+  

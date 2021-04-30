@@ -1,0 +1,164 @@
+# src/color/system.yml
+# System colors (danger, warnings, info...)
+---
+global:
+  type: color
+  category: category-color
+ 
+imports:
+  - ./aliases.yml
+ 
+props:
+
+  # System colors
+  - name: $color-danger-100
+    value: '{!color-danger-faded-100}'
+    meta:
+      friendlyName: Color Danger 100
+    category: system-color
+
+  - name: $color-danger-200
+    value: '{!color-danger-washed-200}'
+    meta:
+      friendlyName: Color Danger 200
+    category: system-color
+
+  - name: $color-danger-400
+    value: '{!color-danger-regular-400}'
+    meta:
+      friendlyName: Color Danger 400
+    category: system-color
+
+  - name: $color-danger-600
+    value: '{!color-danger-darker-600}'
+    meta:
+      friendlyName: Color Danger 600
+    category: system-color
+
+  - name: $color-danger-700
+    value: '{!color-danger-superdark-700}'
+    meta:
+      friendlyName: Color Danger 700
+    category: system-color
+
+  - name: $color-alert-100
+    value: '{!color-alert-faded-100}'
+    meta:
+      friendlyName: Color Alert 100
+    category: system-color
+
+  - name: $color-alert-200
+    value: '{!color-alert-washed-200}'
+    meta:
+      friendlyName: Color Alert 200
+    category: system-color
+
+  - name: $color-alert-400
+    value: '{!color-alert-regular-400}'
+    meta:
+      friendlyName: Color Alert 400
+    category: system-color
+
+  - name: $color-alert-600
+    value: '{!color-alert-darker-600}'
+    meta:
+      friendlyName: Color Alert 600
+    category: system-color
+
+  - name: $color-alert-700
+    value: '{!color-alert-superdark-700}'
+    meta:
+      friendlyName: Color Alert 700
+    category: system-color
+
+  - name: $color-success-100
+    value: '{!color-success-faded-100}'
+    meta:
+      friendlyName: Color Success 100
+    category: system-color
+
+  - name: $color-success-200
+    value: '{!color-success-washed-200}'
+    meta:
+      friendlyName: Color Success 200
+    category: system-color
+
+  - name: $color-success-400
+    value: '{!color-success-regular-400}'
+    meta:
+      friendlyName: Color Success 400
+    category: system-color
+
+  - name: $color-success-600
+    value: '{!color-success-darker-600}'
+    meta:
+      friendlyName: Color Success 600
+    category: system-color
+
+  - name: $color-success-700
+    value: '{!color-success-superdark-700}'
+    meta:
+      friendlyName: Color Success 700
+    category: system-color
+
+  - name: $color-info-100
+    value: '{!color-info-faded-100}'
+    meta:
+      friendlyName: Color Info 100
+    category: system-color
+
+  - name: $color-info-200
+    value: '{!color-info-washed-200}'
+    meta:
+      friendlyName: Color Info 200
+    category: system-color
+
+  - name: $color-info-400
+    value: '{!color-info-regular-400}'
+    meta:
+      friendlyName: Color Info 400
+    category: system-color
+
+  - name: $color-info-600
+    value: '{!color-info-darker-600}'
+    meta:
+      friendlyName: Color Info 600
+    category: system-color
+
+  - name: $color-info-700
+    value: '{!color-info-superdark-700}'
+    meta:
+      friendlyName: Color Info 700
+    category: system-color
+
+  - name: $color-block-100
+    value: '{!color-block-faded-100}'
+    meta:
+      friendlyName: Color Block 100
+    category: system-color
+
+  - name: $color-block-200
+    value: '{!color-block-washed-200}'
+    meta:
+      friendlyName: Color Block 200
+    category: system-color
+
+  - name: $color-block-400
+    value: '{!color-block-regular-400}'
+    meta:
+      friendlyName: Color Block 400
+    category: system-color
+
+  - name: $color-block-600
+    value: '{!color-block-darker-600}'
+    meta:
+      friendlyName: Color Block 600
+    category: system-color
+
+  - name: $color-block-700
+    value: '{!color-block-superdark-700}'
+    meta:
+      friendlyName: Color Block 700
+    category: system-color
+
+  

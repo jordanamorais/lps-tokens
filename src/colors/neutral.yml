@@ -1,0 +1,56 @@
+# src/color/neutral.yml
+# Neutral colors (grey tones)
+---
+global:
+  type: color
+  category: category-color
+ 
+imports:
+  - ./aliases.yml
+ 
+props:
+
+  # Neutral colors
+  - name: $color-varanda-100
+    value: '{!color-neutral-faded-100}'
+    meta:
+      friendlyName: Color Neutral Varanda 100
+    category: neutral-color
+
+  - name: $color-varanda-200
+    value: '{!color-neutral-washed-200}'
+    meta:
+      friendlyName: Color Neutral Varanda 200
+    category: neutral-color
+
+  - name: $color-varanda-300
+    value: '{!color-neutral-light-300}'
+    meta:
+      friendlyName: Color Neutral Varanda 300
+    category: neutral-color
+
+  - name: $color-varanda-400
+    value: '{!color-neutral-regular-400}'
+    meta:
+      friendlyName: Color Neutral Varanda 400
+    category: neutral-color
+
+  - name: $color-varanda-500
+    value: '{!color-neutral-dark-500}'
+    meta:
+      friendlyName: Color Neutral Varanda 500
+    category: neutral-color
+
+  - name: $color-varanda-600
+    value: '{!color-neutral-darker-600}'
+    meta:
+      friendlyName: Color Neutral Varanda 600
+    category: neutral-color
+
+  - name: $color-varanda-700
+    value: '{!color-neutral-superdark-700}'
+    meta:
+      friendlyName: Color Neutral Varanda 700
+    category: neutral-color
+
+  

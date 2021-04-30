@@ -1,15 +1,16 @@
 # src/color/brand.yml
-# (Brand colors) Primary and Secondary colors
+# Brand colors (Primary, Base and Secondary colors)
 ---
 global:
   type: color # Com esse valor o THEO converte as unidades
   category: category-color
  
 imports:
-  - ./aliases.yml # Importando variaveis de apelido
+  - ./aliases.yml # Importando variaveis de apelido, com os hexadecimais de registro de cor
  
 props:
 
+  # Primary colors
   - name: $color-casa-100
     value: '{!color-primary-faded-100}'
     meta:
@@ -28,8 +29,82 @@ props:
       friendlyName: Color Primary Casa 300
     category: brand-color
 
-  - name: $color-casa-400 # Nome do token
-    value: '{!color-primary-regular-400}' # Valor do token em variável
+  - name: $color-casa-400
+    value: '{!color-primary-regular-400}'
     meta:
       friendlyName: Color Primary Casa 400
+    category: brand-color
+
+  - name: $color-casa-500
+    value: '{!color-primary-dark-500}'
+    meta:
+      friendlyName: Color Primary Casa 500
+    category: brand-color
+
+  - name: $color-casa-600
+    value: '{!color-primary-darker-600}'
+    meta:
+      friendlyName: Color Primary Casa 600
+    category: brand-color
+
+  - name: $color-casa-700
+    value: '{!color-primary-superdark-700}'
+    meta:
+      friendlyName: Color Primary Casa 700
+    category: brand-color
+
+  # Base colors
+  - name: $color-base-0
+    value: '{!color-pure-0}'
+    meta:
+      friendlyName: Color Base White
+    category: brand-color
+
+  - name: $color-base-50
+    value: '{!color-background-50}'
+    meta:
+      friendlyName: Color Base Grey
+    category: brand-color
+
+  # Secondary colors
+  - name: $color-jardim-100
+    value: '{!color-secondary-faded-100}'
+    meta:
+      friendlyName: Color Secondary Jardim 100
+    category: brand-color
+
+  - name: $color-jardim-200
+    value: '{!color-secondary-washed-200}'
+    meta:
+      friendlyName: Color Secondary Jardim 200
+    category: brand-color
+
+  - name: $color-jardim-300
+    value: '{!color-secondary-light-300}'
+    meta:
+      friendlyName: Color Secondary Jardim 300
+    category: brand-color
+
+  - name: $color-jardim-400
+    value: '{!color-secondary-regular-400}'
+    meta:
+      friendlyName: Color Secondary Jardim 400
+    category: brand-color
+
+  - name: $color-jardim-500
+    value: '{!color-secondary-dark-500}'
+    meta:
+      friendlyName: Color Secondary Jardim 500
+    category: brand-color
+
+  - name: $color-jardim-600
+    value: '{!color-secondary-darker-600}'
+    meta:
+      friendlyName: Color Secondary Jardim 600
+    category: brand-color
+
+  - name: $color-jardim-700
+    value: '{!color-secondary-superdark-700}'
+    meta:
+      friendlyName: Color Secondary Jardim 700
     category: brand-color

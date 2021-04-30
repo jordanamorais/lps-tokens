@@ -6,7 +6,71 @@ global:
   category: pallete-color
  
 aliases:
+  # Primary colors
   color-primary-faded-100:                  '#FBD1DB'
   color-primary-washed-200:                 '#F15E81'
   color-primary-light-300:                  '#F15E81'
-  color-primary-regular-400:                '#EB194B' # Primary - Regular 400
+  color-primary-regular-400:                '#EB194B'
+  color-primary-dark-500:                   '#D31643'
+  color-primary-darker-600:                 '#A51134'
+  color-primary-superdark-700:              '#760C25'
+
+  # Base colors
+  color-pure-0:                             '#FFFFFF'
+  color-background-50:                      '#EBECEC'
+
+  # Secondary colors
+  color-secondary-faded-100:                '#CDE0DD'
+  color-secondary-washed-200:               '#82B2A9'
+  color-secondary-light-300:                '#519387'
+  color-secondary-regular-400:              '#066554'
+  color-secondary-dark-500:                 '#055B4C'
+  color-secondary-darker-600:               '#04473B'
+  color-secondary-superdark-700:            '#03332A'
+
+  # Neutral colors (grey tones)
+  color-neutral-faded-100:                  '#D6D9D9'
+  color-neutral-washed-200:                 '#99A1A0'
+  color-neutral-light-300:                  '#717B7A'
+  color-neutral-regular-400:                '#344341'
+  color-neutral-dark-500:                   '#2F3C3A'
+  color-neutral-darker-600:                 '#242F2D'
+  color-neutral-superdark-700:              '#1A2120'
+
+  # Marketing Illustration colors
+  color-cozinha-regular-400:                '#FF9169'
+  color-quintal-regular-400:                '#FFBE55'
+  color-sala-regular-400:                   '#46DCAA'
+  color-piscina-regular-400:                '#55E1E6'
+  color-banheira-regular-400:               '#91BEFF'
+
+  # System colors
+  color-danger-faded-100:                  '#F6D9D7'
+  color-danger-washed-200:                 '#EA9F9A'
+  color-danger-regular-400:                '#D43F35'
+  color-danger-darker-600:                 '#942C25'
+  color-danger-superdark-700:              '#6A1F1A'
+
+  color-alert-faded-100:                   '#FAEBD4'
+  color-alert-washed-200:                  '#F4CD93'
+  color-alert-regular-400:                 '#E89B28'
+  color-alert-darker-600:                  '#A26C1C'
+  color-alert-superdark-700:               '#744D14'
+
+  color-success-faded-100:                 '#CDE3DB'
+  color-success-washed-200:                '#83BAA6'
+  color-success-regular-400:               '#07754D'
+  color-success-darker-600:                '#055236'
+  color-success-superdark-700:             '#033B26'
+
+  color-info-faded-100:                    '#CEE1F2'
+  color-info-washed-200:                   '#84B3DF'
+  color-info-regular-400:                  '#0A68BF'
+  color-info-darker-600:                   '#074986'
+  color-info-superdark-700:                '#05345F'
+
+  color-block-faded-100:                   '#E6E4E4'
+  color-block-washed-200:                  '#BFBCBC'
+  color-block-regular-400:                 '#807979'
+  color-block-darker-600:                  '#5A5555'
+  color-block-superdark-700:               '#403D3D'

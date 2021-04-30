@@ -23,6 +23,300 @@
       "category": "brand-color",
       "name": "colorCasa400",
       "value": "rgb(235, 25, 75)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorCasa500",
+      "value": "rgb(211, 22, 67)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorCasa600",
+      "value": "rgb(165, 17, 52)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorCasa700",
+      "value": "rgb(118, 12, 37)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorBase0",
+      "value": "rgb(255, 255, 255)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorBase50",
+      "value": "rgb(235, 236, 236)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorJardim100",
+      "value": "rgb(205, 224, 221)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorJardim200",
+      "value": "rgb(130, 178, 169)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorJardim300",
+      "value": "rgb(81, 147, 135)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorJardim400",
+      "value": "rgb(6, 101, 84)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorJardim500",
+      "value": "rgb(5, 91, 76)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorJardim600",
+      "value": "rgb(4, 71, 59)"
+    },
+    {
+      "type": "color",
+      "category": "brand-color",
+      "name": "colorJardim700",
+      "value": "rgb(3, 51, 42)"
+    },
+    {
+      "type": "color",
+      "category": "neutral-color",
+      "name": "colorVaranda100",
+      "value": "rgb(214, 217, 217)"
+    },
+    {
+      "type": "color",
+      "category": "neutral-color",
+      "name": "colorVaranda200",
+      "value": "rgb(153, 161, 160)"
+    },
+    {
+      "type": "color",
+      "category": "neutral-color",
+      "name": "colorVaranda300",
+      "value": "rgb(113, 123, 122)"
+    },
+    {
+      "type": "color",
+      "category": "neutral-color",
+      "name": "colorVaranda400",
+      "value": "rgb(52, 67, 65)"
+    },
+    {
+      "type": "color",
+      "category": "neutral-color",
+      "name": "colorVaranda500",
+      "value": "rgb(47, 60, 58)"
+    },
+    {
+      "type": "color",
+      "category": "neutral-color",
+      "name": "colorVaranda600",
+      "value": "rgb(36, 47, 45)"
+    },
+    {
+      "type": "color",
+      "category": "neutral-color",
+      "name": "colorVaranda700",
+      "value": "rgb(26, 33, 32)"
+    },
+    {
+      "type": "color",
+      "category": "marketing-color",
+      "name": "colorCozinha",
+      "value": "rgb(255, 145, 105)"
+    },
+    {
+      "type": "color",
+      "category": "marketing-color",
+      "name": "colorQuintal",
+      "value": "rgb(255, 190, 85)"
+    },
+    {
+      "type": "color",
+      "category": "marketing-color",
+      "name": "colorSala",
+      "value": "rgb(70, 220, 170)"
+    },
+    {
+      "type": "color",
+      "category": "marketing-color",
+      "name": "colorPiscina",
+      "value": "rgb(85, 225, 230)"
+    },
+    {
+      "type": "color",
+      "category": "marketing-color",
+      "name": "colorBanheira",
+      "value": "rgb(145, 190, 255)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorDanger100",
+      "value": "rgb(246, 217, 215)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorDanger200",
+      "value": "rgb(234, 159, 154)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorDanger400",
+      "value": "rgb(212, 63, 53)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorDanger600",
+      "value": "rgb(148, 44, 37)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorDanger700",
+      "value": "rgb(106, 31, 26)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorAlert100",
+      "value": "rgb(250, 235, 212)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorAlert200",
+      "value": "rgb(244, 205, 147)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorAlert400",
+      "value": "rgb(232, 155, 40)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorAlert600",
+      "value": "rgb(162, 108, 28)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorAlert700",
+      "value": "rgb(116, 77, 20)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorSuccess100",
+      "value": "rgb(205, 227, 219)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorSuccess200",
+      "value": "rgb(131, 186, 166)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorSuccess400",
+      "value": "rgb(7, 117, 77)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorSuccess600",
+      "value": "rgb(5, 82, 54)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorSuccess700",
+      "value": "rgb(3, 59, 38)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorInfo100",
+      "value": "rgb(206, 225, 242)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorInfo200",
+      "value": "rgb(132, 179, 223)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorInfo400",
+      "value": "rgb(10, 104, 191)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorInfo600",
+      "value": "rgb(7, 73, 134)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorInfo700",
+      "value": "rgb(5, 52, 95)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorBlock100",
+      "value": "rgb(230, 228, 228)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorBlock200",
+      "value": "rgb(191, 188, 188)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorBlock400",
+      "value": "rgb(128, 121, 121)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorBlock600",
+      "value": "rgb(90, 85, 85)"
+    },
+    {
+      "type": "color",
+      "category": "system-color",
+      "name": "colorBlock700",
+      "value": "rgb(64, 61, 61)"
     }
   ]
 }
