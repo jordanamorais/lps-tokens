@@ -1,0 +1,11 @@
+# src/shadows/index.yml
+---
+global:
+  type: shadow
+  category: ds-shadows
+ 
+imports:
+  - ./aliases.yml
+  - ./color.yml
+  - ./sizes.yml
+ 

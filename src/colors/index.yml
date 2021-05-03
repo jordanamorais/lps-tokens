@@ -1,8 +1,8 @@
-# src/color/index.yml
+# src/colors/index.yml
 ---
 global:
   type: color # Com esse valor o THEO converte as unidades
-  category: category-color
+  category: ds-color-palette
  
 imports:
   - ./aliases.yml

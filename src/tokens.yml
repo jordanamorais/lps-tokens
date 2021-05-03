@@ -5,7 +5,7 @@ imports:
   # - ./radius/index.yml
   - ./colors/index.yml
   # - ./opacity/index.yml
-  # - ./shadow/index.yml
+  - ./shadows/index.yml
   # - ./spacing/index.yml
   # - ./typography/index.yml
 global:

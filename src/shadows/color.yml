@@ -1,0 +1,18 @@
+# src/color/brand.yml
+# Brand colors (Primary, Base and Secondary colors)
+---
+global:
+  type: color
+  category: shadow-color
+ 
+imports:
+  - ./aliases.yml
+ 
+props:
+
+  # Primary colors
+  - name: $color-shadow-varanda-200-opacity-20
+    value: '{!color-shadow-varanda-200-opacity-20}'
+    meta:
+      friendlyName: Color Shadow Varanda 200 Opacity 20
+    category: shadow-color

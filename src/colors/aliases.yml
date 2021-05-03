@@ -3,10 +3,10 @@
 ---
 global:
   type: aliases # Atribui o valor do tipo do arquivo
-  category: pallete-color
+  category: ds-color-palette
  
 aliases:
-  # Primary colors
+  # Primary colors (Casa)
   color-primary-faded-100:                  '#FBD1DB'
   color-primary-washed-200:                 '#F15E81'
   color-primary-light-300:                  '#F15E81'
@@ -15,11 +15,11 @@ aliases:
   color-primary-darker-600:                 '#A51134'
   color-primary-superdark-700:              '#760C25'
 
-  # Base colors
+  # Base colors (Base)
   color-pure-0:                             '#FFFFFF'
   color-background-50:                      '#EBECEC'
 
-  # Secondary colors
+  # Secondary colors (Jardim)
   color-secondary-faded-100:                '#CDE0DD'
   color-secondary-washed-200:               '#82B2A9'
   color-secondary-light-300:                '#519387'
@@ -28,7 +28,7 @@ aliases:
   color-secondary-darker-600:               '#04473B'
   color-secondary-superdark-700:            '#03332A'
 
-  # Neutral colors (grey tones)
+  # Neutral colors (Varanda)
   color-neutral-faded-100:                  '#D6D9D9'
   color-neutral-washed-200:                 '#99A1A0'
   color-neutral-light-300:                  '#717B7A'
@@ -44,7 +44,7 @@ aliases:
   color-piscina-regular-400:                '#55E1E6'
   color-banheira-regular-400:               '#91BEFF'
 
-  # System colors
+  # System colors (Feedbacks)
   color-danger-faded-100:                  '#F6D9D7'
   color-danger-washed-200:                 '#EA9F9A'
   color-danger-regular-400:                '#D43F35'

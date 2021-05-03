@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <color name="$COLOR_CASA_100" category="brand-color">#fffbd1db</color>
-  <color name="$COLOR_CASA_200" category="brand-color">#fff15e81</color>
-  <color name="$COLOR_CASA_300" category="brand-color">#fff15e81</color>
-  <color name="$COLOR_CASA_400" category="brand-color">#ffeb194b</color>
-  <color name="$COLOR_CASA_500" category="brand-color">#ffd31643</color>
-  <color name="$COLOR_CASA_600" category="brand-color">#ffa51134</color>
-  <color name="$COLOR_CASA_700" category="brand-color">#ff760c25</color>
-  <color name="$COLOR_BASE_0" category="brand-color">#ffffffff</color>
-  <color name="$COLOR_BASE_50" category="brand-color">#ffebecec</color>
-  <color name="$COLOR_JARDIM_100" category="brand-color">#ffcde0dd</color>
-  <color name="$COLOR_JARDIM_200" category="brand-color">#ff82b2a9</color>
-  <color name="$COLOR_JARDIM_300" category="brand-color">#ff519387</color>
-  <color name="$COLOR_JARDIM_400" category="brand-color">#ff066554</color>
-  <color name="$COLOR_JARDIM_500" category="brand-color">#ff055b4c</color>
-  <color name="$COLOR_JARDIM_600" category="brand-color">#ff04473b</color>
-  <color name="$COLOR_JARDIM_700" category="brand-color">#ff03332a</color>
   <color name="$COLOR_VARANDA_100" category="neutral-color">#ffd6d9d9</color>
   <color name="$COLOR_VARANDA_200" category="neutral-color">#ff99a1a0</color>
   <color name="$COLOR_VARANDA_300" category="neutral-color">#ff717b7a</color>
@@ -53,4 +38,6 @@
   <color name="$COLOR_BLOCK_400" category="system-color">#ff807979</color>
   <color name="$COLOR_BLOCK_600" category="system-color">#ff5a5555</color>
   <color name="$COLOR_BLOCK_700" category="system-color">#ff403d3d</color>
+  <color name="$COLOR_SHADOW_VARANDA_200_OPACITY_20" category="shadow-color">#ff99a1a0</color>
+  <property name="$SHADOW_2DP" category="shadow-size">0 3 4dp</property>
 </resources>

@@ -1,0 +1,17 @@
+# src/color/aliases.yml
+# All of the color aliases
+---
+global:
+  type: aliases # Atribui o valor do tipo do arquivo
+  category: ds-shadows
+ 
+aliases:
+  # Shadow colors
+  color-shadow-varanda-200-opacity-20:       '#99A1A0'
+  color-shadow-danger-200-opacity-20:        '#EA9F9A'
+  color-shadow-alert-200-opacity-20:         '#F4CD93'
+  color-shadow-success-200-opacity-20:       '#83BAA6'
+  color-shadow-info-200-opacity-20:          '#84B3DF'
+
+  # Shadow sizes/densities
+  shadow-2dp:          '0 3px 4px'

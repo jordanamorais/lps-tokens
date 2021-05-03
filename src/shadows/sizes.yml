@@ -1,0 +1,18 @@
+# src/color/brand.yml
+# Brand colors (Primary, Base and Secondary colors)
+---
+global:
+  type: shadow
+  category: shadow-size
+ 
+imports:
+  - ./aliases.yml
+ 
+props:
+
+  # Primary colors
+  - name: $shadow-2dp
+    value: '{!shadow-2dp}'
+    meta:
+      friendlyName: Shadow 2dp
+    category: shadow-size
