@@ -231,14 +231,56 @@
     {
       "type": "color",
       "category": "shadow-color",
-      "name": "colorShadowVaranda200Opacity20",
+      "name": "colorShadowNeutral",
       "value": "rgb(153, 161, 160)"
+    },
+    {
+      "type": "color",
+      "category": "shadow-color",
+      "name": "colorShadowDanger",
+      "value": "rgb(234, 159, 154)"
+    },
+    {
+      "type": "color",
+      "category": "shadow-color",
+      "name": "colorShadowAlert",
+      "value": "rgb(244, 205, 147)"
+    },
+    {
+      "type": "color",
+      "category": "shadow-color",
+      "name": "colorShadowSuccess",
+      "value": "rgb(131, 186, 166)"
+    },
+    {
+      "type": "color",
+      "category": "shadow-color",
+      "name": "colorShadowInfo",
+      "value": "rgb(132, 179, 223)"
     },
     {
       "type": "shadow",
       "category": "shadow-size",
       "name": "shadow2Dp",
       "value": "0 3px 4px"
+    },
+    {
+      "type": "shadow",
+      "category": "shadow-size",
+      "name": "shadow4Dp",
+      "value": "0 8px 8px"
+    },
+    {
+      "type": "shadow",
+      "category": "shadow-size",
+      "name": "shadow8Dp",
+      "value": "0 8px 16px"
+    },
+    {
+      "type": "shadow",
+      "category": "shadow-size",
+      "name": "shadow16Dp",
+      "value": "0 8px 24px"
     }
   ]
 }

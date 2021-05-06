@@ -38,6 +38,13 @@
   <color name="$COLOR_BLOCK_400" category="system-color">#ff807979</color>
   <color name="$COLOR_BLOCK_600" category="system-color">#ff5a5555</color>
   <color name="$COLOR_BLOCK_700" category="system-color">#ff403d3d</color>
-  <color name="$COLOR_SHADOW_VARANDA_200_OPACITY_20" category="shadow-color">#ff99a1a0</color>
+  <color name="$COLOR_SHADOW_NEUTRAL" category="shadow-color">#ff99a1a0</color>
+  <color name="$COLOR_SHADOW_DANGER" category="shadow-color">#ffea9f9a</color>
+  <color name="$COLOR_SHADOW_ALERT" category="shadow-color">#fff4cd93</color>
+  <color name="$COLOR_SHADOW_SUCCESS" category="shadow-color">#ff83baa6</color>
+  <color name="COLOR_SHADOW_INFO" category="shadow-color">#ff84b3df</color>
   <property name="$SHADOW_2DP" category="shadow-size">0 3 4dp</property>
+  <property name="$SHADOW_4DP" category="shadow-size">0 8 8dp</property>
+  <property name="$SHADOW_8DP" category="shadow-size">0 8 16dp</property>
+  <property name="$SHADOW_16DP" category="shadow-size">0 8 24dp</property>
 </resources>

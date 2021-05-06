@@ -1,8 +1,8 @@
-# src/color/aliases.yml
-# All of the color aliases
+# src/shadows/aliases.yml
+# All of the shadow aliases
 ---
 global:
-  type: aliases # Atribui o valor do tipo do arquivo
+  type: aliases
   category: ds-shadows
  
 aliases:
@@ -15,3 +15,6 @@ aliases:
 
   # Shadow sizes/densities
   shadow-2dp:          '0 3px 4px'
+  shadow-4dp:          '0 8px 8px'
+  shadow-8dp:          '0 8px 16px'
+  shadow-16dp:         '0 8px 24px'

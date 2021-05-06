@@ -1,5 +1,5 @@
-# src/color/brand.yml
-# Brand colors (Primary, Base and Secondary colors)
+# src/shadows/colors.yml
+# Shadow Colors
 ---
 global:
   type: color
@@ -10,9 +10,32 @@ imports:
  
 props:
 
-  # Primary colors
-  - name: $color-shadow-varanda-200-opacity-20
+  - name: $color-shadow-neutral
     value: '{!color-shadow-varanda-200-opacity-20}'
     meta:
-      friendlyName: Color Shadow Varanda 200 Opacity 20
+      friendlyName: Shadow Neutral Color
+    category: shadow-color
+
+  - name: $color-shadow-danger
+    value: '{!color-shadow-danger-200-opacity-20}'
+    meta:
+      friendlyName: Shadow Danger Color
+    category: shadow-color
+
+  - name: $color-shadow-alert
+    value: '{!color-shadow-alert-200-opacity-20}'
+    meta:
+      friendlyName: Shadow Alert Color
+    category: shadow-color
+
+  - name: $color-shadow-success
+    value: '{!color-shadow-success-200-opacity-20}'
+    meta:
+      friendlyName: Shadow Success Color
+    category: shadow-color
+
+  - name: color-shadow-info
+    value: '{!color-shadow-info-200-opacity-20}'
+    meta:
+      friendlyName: Shadow Info Color
     category: shadow-color

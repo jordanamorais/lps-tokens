@@ -1,5 +1,5 @@
-# src/color/brand.yml
-# Brand colors (Primary, Base and Secondary colors)
+# src/shadows/sizes.yml
+# Shadow Sizes
 ---
 global:
   type: shadow
@@ -10,9 +10,26 @@ imports:
  
 props:
 
-  # Primary colors
   - name: $shadow-2dp
     value: '{!shadow-2dp}'
     meta:
       friendlyName: Shadow 2dp
+    category: shadow-size
+
+  - name: $shadow-4dp
+    value: '{!shadow-4dp}'
+    meta:
+      friendlyName: Shadow 4dp
+    category: shadow-size
+
+  - name: $shadow-8dp
+    value: '{!shadow-8dp}'
+    meta:
+      friendlyName: Shadow 8dp
+    category: shadow-size
+
+  - name: $shadow-16dp
+    value: '{!shadow-16dp}'
+    meta:
+      friendlyName: Shadow 16dp
     category: shadow-size
